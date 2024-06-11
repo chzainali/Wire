@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382405354301",
+    "project_id": "wire-681ec",
+    "storage_bucket": "wire-681ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382405354301:android:a714f5fe85471c8db35b54",
+        "android_client_info": {
+          "package_name": "com.example.wire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFg00UFsiA33ksHZe41zsTIoP0Eulxz44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
